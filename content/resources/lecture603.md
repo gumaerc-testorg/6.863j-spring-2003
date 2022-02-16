@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Finish up POS tagging ? Brill method and From tagging to parsing.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/d2206f82425260a390f3eba5d5c22c40_lecture603.pdf
+file: /media/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/d2206f82425260a390f3eba5d5c22c40_lecture603.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture603.pdf
 uid: d2206f82-4252-60a3-90f3-eba5d5c22c40
