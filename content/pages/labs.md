@@ -34,8 +34,8 @@ Lab 1a: Processing Words ([PDF]({{< baseurl >}}/resources/lab1a_03))
 Lab 1b: Processing Spanish Words ([PDF]({{< baseurl >}}/resources/lab1b_2003))
 {{< tdclose >}}
 {{< tdopen >}}
-List of Spanish Words ([REC](/courses/electrical-engineering-and-computer-science/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/labs/spanish.rec))  
-Guide to Writing Kimmo Lexicons ([PDF]({{< baseurl >}}/resources/kimmolex-1))  
+List of Spanish Words ([REC]({{< baseurl >}}/resources/spanish))  
+Guide to Writing Kimmo Lexicons ([PDF]({{< baseurl >}}/resources/kimmolex-2))  
 Guide to Writing Kimmo Automata ([PDF]({{< baseurl >}}/resources/kimmoaut))
 {{< tdclose >}}
 

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: ed59eeea-9cb3-3556-fbe2-26c06f844506
 resourcetype: Document
 title: taggers.pdf
 uid: 5f6ecb2b-ff65-c5f8-6b60-b73493b2d356

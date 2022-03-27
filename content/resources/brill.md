@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: ed59eeea-9cb3-3556-fbe2-26c06f844506
 resourcetype: Document
 title: brill.pdf
 uid: 69c72446-ed3b-57eb-6bac-ab730649fe99

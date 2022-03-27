@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 396d1d9e-70b1-2bdc-298d-673d8579f007
 resourcetype: Document
 title: notes4.pdf
 uid: 9eb8b84a-3393-8490-f29b-537a8d513350
