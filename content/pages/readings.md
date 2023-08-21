@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 396d1d9e-70b1-2bdc-298d-673d8579f007
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The page numbers below refer to readings in the course textbook: Jurafsky, and Martin. _Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech_. Upper Saddle River, NJ: Prentice Hall, 2000. ISBN: 0130950696.
@@ -42,7 +47,7 @@ READINGS
 Introduction, Organization, Laboratories, Course Overview: Introduction to NLP, Main Issues, fsa's
 {{< tdclose >}}
 {{< tdopen >}}
-pp. 1-57; Notes 1 ([PDF]({{< baseurl >}}/resources/notes1))
+pp. 1-57; Notes 1 ({{% resource_link 3b5cff81-c1dc-314b-daac-cd8115e2bc70 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +68,7 @@ pp. 58-90
 Linguistics: Phonology and Morphology I, 2-Level Morphology, Kimmo
 {{< tdclose >}}
 {{< tdopen >}}
-Notes 2 ([PDF]({{< baseurl >}}/resources/notes2))
+Notes 2 ({{% resource_link c674bf17-92ab-e07f-d84e-e7d09ccb48ed "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +122,7 @@ HMM Tagging, Statistical Transformation Rule-Based Tagging, Precision, Recall, A
 **Week 4:** **Linguistics and Grammars; Parsing Algorithms I**
 {{< tdclose >}}
 {{< tdopen >}}
-Notes 3 ([PDF]({{< baseurl >}}/resources/notes3))
+Notes 3 ({{% resource_link 2dc375ef-5340-a31c-ff83-48cdfd6b4a55 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +155,7 @@ Introduction to Parsing, Linguistics: Syntax & Parsing
 **Week 5:** **Parsing Algorithms II**
 {{< tdclose >}}
 {{< tdopen >}}
-Notes 4 ([PDF]({{< baseurl >}}/resources/notes4))
+Notes 4 ({{% resource_link 9eb8b84a-3393-8490-f29b-537a8d513350 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
