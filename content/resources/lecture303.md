@@ -5,6 +5,7 @@ description: 'Summary of two-level machinery
   Some of the computational details of finite-state transducers, and the problems
   with ''conventional'' linguistic rules.'
 file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/ea542f3f2d36047c32da2266e3cf4410_lecture303.pdf
+file_size: 493535
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

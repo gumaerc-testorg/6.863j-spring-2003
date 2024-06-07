@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/dd8b0c68ab93aaaf7a7acec40f89956c_laboratory2_03.pdf
+file_size: 37711
 file_type: application/pdf
 learning_resource_types:
 - Labs
