@@ -2,6 +2,7 @@
 content_type: resource
 description: Additional material for labs.
 file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/8fea97c3d3e84c7cf152f64c1f28f7fb_kimmolex.txt
+file_size: 14528
 file_type: text/plain
 learning_resource_types:
 - Labs
