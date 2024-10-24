@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: .txt data file
-file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/912b9a51dcae18b2f94b629e295d8f07_magi.txt
+file: /ol-ocw-studio-app/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/912b9a51dcae18b2f94b629e295d8f07_magi.txt
 file_size: 7886
 file_type: text/plain
 learning_resource_types:
