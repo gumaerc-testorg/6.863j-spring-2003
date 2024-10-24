@@ -2,7 +2,7 @@
 content_type: resource
 description: Kimmo ? its use and abuse and Part of speech 'tagging' (with sneaky intro
   to probability theory that we need.
-file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/53fd409787f433f1a014a1ad40fe50ff_lecture4bw_03.pdf
+file: /ol-ocw-studio-app/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/53fd409787f433f1a014a1ad40fe50ff_lecture4bw_03.pdf
 file_size: 3711661
 file_type: application/pdf
 learning_resource_types:
