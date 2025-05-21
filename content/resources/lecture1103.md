@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Feature-based grammars/parsing: unification; the question of representation,
   Semantic interpretation via lambda calculus: syntax directed translation.'
-file: /ol-ocw-studio-app/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/a46f1ff387ccb7404c390fccaa1a5f77_lecture1103.pdf
+file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/a46f1ff387ccb7404c390fccaa1a5f77_lecture1103.pdf
 file_size: 631722
 file_type: application/pdf
 learning_resource_types:

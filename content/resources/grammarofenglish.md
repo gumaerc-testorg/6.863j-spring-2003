@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/169150cf1023769d42ccc43fdde0a3cc_grammarofenglish.pdf
+file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/169150cf1023769d42ccc43fdde0a3cc_grammarofenglish.pdf
 file_size: 175462
 file_type: application/pdf
 learning_resource_types:

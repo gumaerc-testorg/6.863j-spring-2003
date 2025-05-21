@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/c674bf1792abe07fd84ee7d09ccb48ed_notes2.pdf
+file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/c674bf1792abe07fd84ee7d09ccb48ed_notes2.pdf
 file_size: 274805
 file_type: application/pdf
 learning_resource_types:
