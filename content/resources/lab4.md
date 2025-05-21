@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains experiments.
-file: /ol-ocw-studio-app/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/53dba4c7481e4306c8163df9c493f184_lab4.pdf
+file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/53dba4c7481e4306c8163df9c493f184_lab4.pdf
 file_size: 236198
 file_type: application/pdf
 learning_resource_types:

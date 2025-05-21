@@ -3,7 +3,7 @@ content_type: resource
 description: 'Machine Translation (MT) as a ''litmus test'' or ''sandbox'' (graveyard?)
   for putting together all of NLP, Practical systems: Phraselator; Systran (Babelfish);
   Logos.'
-file: /ol-ocw-studio-app/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/c2e01b66ee78c2f4180e6f8e4d5afd78_lecture17bw_03.pdf
+file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/c2e01b66ee78c2f4180e6f8e4d5afd78_lecture17bw_03.pdf
 file_size: 1435260
 file_type: application/pdf
 learning_resource_types:

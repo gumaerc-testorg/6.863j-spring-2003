@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: .pos data file
-file: /ol-ocw-studio-app/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/1b3e3e519cb923d23af3dbc624ce003c_all.pos
+file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/1b3e3e519cb923d23af3dbc624ce003c_all.pos
 file_size: 324822
 file_type: text/plain
 learning_resource_types:

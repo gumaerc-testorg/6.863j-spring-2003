@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Marxist analysis.
-file: /ol-ocw-studio-app/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/f33135520f7f58ab57a7a6c7279c366e_lecture7bw_03.pdf
+file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/f33135520f7f58ab57a7a6c7279c366e_lecture7bw_03.pdf
 file_size: 2980145
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: What this course is about, why NLP is hard, and interesting and the ingredents
   of language.
-file: /ol-ocw-studio-app/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/9ea73f273fb32d8a0b6ee002cce626fb_lecture1.pdf
+file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/9ea73f273fb32d8a0b6ee002cce626fb_lecture1.pdf
 file_size: 609297
 file_type: application/pdf
 learning_resource_types:
