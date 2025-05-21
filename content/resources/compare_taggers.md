@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: .pl data file
-file: /ol-ocw-studio-app/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/2657a5e1158cc8d2bc04c1212a8ed45c_compare_taggers.pl
+file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/2657a5e1158cc8d2bc04c1212a8ed45c_compare_taggers.pl
 file_size: 5074
 file_type: text/plain
 learning_resource_types:
