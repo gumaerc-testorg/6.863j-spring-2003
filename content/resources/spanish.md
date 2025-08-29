@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: '"Good examples" and "bad examples"'
-file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/d9b1cee30473ff1dad3082a0baf445cb_spanish.rec
+file: /ol-ocw-studio-app/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/d9b1cee30473ff1dad3082a0baf445cb_spanish.rec
 file_size: 480
 file_type: text/plain
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

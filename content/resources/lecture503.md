@@ -2,7 +2,7 @@
 content_type: resource
 description: Part of speech 'tagging' (with sneaky intro to probability theory that
   we need).
-file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/c0ef4dd1f715f5575064e24de3413909_lecture503.pdf
+file: /ol-ocw-studio-app/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/c0ef4dd1f715f5575064e24de3413909_lecture503.pdf
 file_size: 1837904
 file_type: application/pdf
 learning_resource_types:

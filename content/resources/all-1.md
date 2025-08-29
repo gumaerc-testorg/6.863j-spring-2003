@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: .raw data file
-file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/fbdb7c0c6f2008f387729b3315642882_all.raw
+file: /ol-ocw-studio-app/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/fbdb7c0c6f2008f387729b3315642882_all.raw
 file_size: 140167
 file_type: text/plain
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
