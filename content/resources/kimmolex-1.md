@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/0e41bee27b2b85282a9421e591f4bdc4_kimmolex.pdf
+file: /ol-ocw-studio-app/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/0e41bee27b2b85282a9421e591f4bdc4_kimmolex.pdf
 file_size: 53870
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
