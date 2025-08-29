@@ -2,7 +2,7 @@
 content_type: resource
 description: Modeling morpho-phonology by finite-state devices and Finite-state automata
   vs. finite state transducers.
-file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/c03f2a1867fece05c1c9153f5704642d_lecture203.pdf
+file: /ol-ocw-studio-app/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/c03f2a1867fece05c1c9153f5704642d_lecture203.pdf
 file_size: 1674581
 file_type: application/pdf
 learning_resource_types:

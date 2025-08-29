@@ -2,7 +2,7 @@
 content_type: resource
 description: 'The Twain test & the Gold Standard and the Logical problem of language
   acquisition: the Gold theorem results.'
-file: /courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/ca559726619323c5d38e9eafff30eac3_lecture2103a.pdf
+file: /ol-ocw-studio-app/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/ca559726619323c5d38e9eafff30eac3_lecture2103a.pdf
 file_size: 689628
 file_type: application/pdf
 learning_resource_types:
