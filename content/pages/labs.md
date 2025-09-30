@@ -30,7 +30,7 @@ SUPPORTING FILES
 Lab 1a: Processing Words ({{% resource_link 3b5209a3-b367-81cd-6314-1c0ecee795df "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-[Kimmo Word Processor Documentation](http://www.ai.mit.edu/courses/6.863/doc/pckimmo.html)
+{{% resource_link "d841fb86-ad25-41dc-a84d-fb17cba56b1a" "Kimmo Word Processor Documentation" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
