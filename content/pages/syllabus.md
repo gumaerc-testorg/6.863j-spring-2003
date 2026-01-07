@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: ''
+description: syllabus
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
@@ -15,12 +15,12 @@ video_metadata:
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-Labs: 2 sessions / week, for 2 hours / session    
+Labs: 2 sessions / week, for 2 hours / session     
 One session / week, for 1 hour / session
 
 ## Prerequisites
 
-Students should have some experience in a programming language. [6.034](/courses/6-034-artificial-intelligence-spring-2005) is listed as a prerequisite but can be waived by permission of the instructor.
+Students should have some experience in a programming language. [6.034](https://ocw-studio.odl.mit.edu/courses/6-034-artificial-intelligence-spring-2005) is listed as a prerequisite but can be waived by permission of the instructor.
 
 The material covered in this course is selected in such a way that at its completion you should be able to understand current papers in the field of Natural Language Processing (NLP). No background in NLP is necessary.
 
@@ -28,11 +28,11 @@ The material covered in this course is selected in such a way that at its comple
 
 *Required*
 
-Jurafsky, D. and Martin, J. H. {{% resource_link "c041700b-6e5c-4f91-9f74-59296c5a36df" "*Speech and Language Processing*" %}}. Prentice Hall: 2000. ISBN: 0130950696
+Jurafsky, D. and Martin, J. H. [*Speech and Language Processing*](http://www.cs.colorado.edu/~martin/slp.html). Prentice Hall: 2000. ISBN: 0130950696
 
 *Recommended and Reference (on Library Reserve)*
 
-Manning, C. D. and H. Schütze: {{% resource_link "50ccc07b-c853-4ba5-8414-90eb201244f2" "*Foundations of Statistical Natural Language Processing*" %}}. The MIT Press. 1999. ISBN 0-262-13360-1.
+Manning, C. D. and H. Schütze: [*Foundations of Statistical Natural Language Processing*](http://www-nlp.stanford.edu/fsnlp/). The MIT Press. 1999. ISBN 0-262-13360-1.
 
 Barton, E., Berwick, R., and Ristad, E. *Computational Complexity and Natural Language*: The MIT Press. 1987. ISBN 0-26-02266-4.
 
@@ -45,13 +45,13 @@ Supplementary readings will be available as pdf files on the course website, and
 ## Additional Resources
 
 - Proceedings of major conferences (related to Natural Language Processing):
-    - {{% resource_link "e1c8338c-808d-45c4-8795-0dcb6e7e73b3" "ACL" %}} (Association of Computational Linguistics)
-    - {{% resource_link "6a04091f-af03-4c34-b1c8-772e5106dd7d" "European Chapter of the ACL" %}}
+    - [ACL](http://www.aclweb.org/) (Association of Computational Linguistics)
+    - [European Chapter of the ACL](https://eacl.org/)
     - COLING (International Committee of Computational Linguistics)
     - ANLP (Applied Natural Language Processing, by ACL)
-    - ACL {{% resource_link "21096809-57e7-4e6b-af58-83555b6ef6e4" "SIGDAT" %}}, other SIG (Special Interest Groups) Workshops, such as WVLC (Workshop on Very Large Corpora)
+    - ACL [SIGDAT](http://www.cs.jhu.edu/~yarowsky/sigdat.html), other SIG (Special Interest Groups) Workshops, such as WVLC (Workshop on Very Large Corpora)
     - EMNLP (Empirical Methods in Natural Language Processing)
-    - {{% resource_link "fefb33a2-d196-421e-9855-3f2ea816b29b" "Linguist List" %}} (for everything you always wanted to say)
+    - [Linguist List](http://www.linguistlist.org/) (for everything you always wanted to say)
     - DARPA HLT (Defense Advanced Research Project Agency Human Language Technology Workshops)
 
 ## Assignments
